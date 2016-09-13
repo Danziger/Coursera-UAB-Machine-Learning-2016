@@ -1,1 +1,2 @@
-# Coursera-UAB-Machine-Learning-2016
+# Coursera/UAB Machine Learning (2016)
+
